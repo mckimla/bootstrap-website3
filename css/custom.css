@@ -61,7 +61,7 @@ h5 {
 /*paragraph text*/
 p {
     font: 1.0em Quicksand, sans-serif;
-    color: #6e6a6a;
+    color: #000000;
 }
 
 /*body and background color*/
@@ -89,16 +89,16 @@ div.carousel-inner {
 }
 
 div.contact {
-    font: 3.0em Merriweather, sans-serif;
+    font: 3.0em Quicksand, sans-serif;
 }
 
 div.lead {
-    font: bold 3.0em Merriweather, sans-serif;
+    font: bold 3.0em Quicksand, sans-serif;
     color: black;
 }
 
 h1.display-4 {
-    font: bold 1.0em Merriweather, sans-serif;
+    font: bold 1.0em Quicksand, sans-serif;
 }
 
 p.lead {
@@ -120,23 +120,6 @@ p.lead {
   padding: 5px;
 }
 
-/*rep drawing image*/
-.container {
- display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 35%;
-}
-
-/* Rep photo */
-.rep2020 {
-   margin-bottom: 35px;
-}
-
-/* Headshot photo */
-.headshot {
-  
-}
 
 /* Modal Pics */
 .modalpic {
@@ -145,39 +128,8 @@ p.lead {
   padding: 5px;
 }
 
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
 
-.pics {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 25px;
-  margin-bottom: 25px;
-}
-
-
-/* Header image home page */
-.headerimage {
-    margin-top: 25px;
-    margin-bottom: 25px;
-    align-items: center;
-}
-
-/* Jumping photo */
-.jump {
-    display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 25px;
-  margin-bottom: 25px;
-  width:65%;
-}
-
+ 
 
 /* Font Awesome Icons */
 .fa {
@@ -195,28 +147,26 @@ p.lead {
 
 }
 
-
-
 /* Instagram */
 .fa-instagram {
   background: none;
   color: rgb(0, 139, 139);
 }
 
-/* Events Page Carousel */
+/* Carousel */
 .carousel {
     width:640px;
   height:425px;
   margin: auto;
 }
 
-/* Home Page Image Gallery Modal */
+/* Image Gallery Modal */
 .carousel-modal {
     width: 100%;
     margin: auto;
 }
 
-/* Buttons on Merchandise Page */
+/* Buttons on About Page */
 .btn {
     background-color: rgb(0, 139, 139);
     border: none;
@@ -224,20 +174,10 @@ p.lead {
     margin-bottom: 5px;
 }
 
-/* Buttons Hover on Merchandise Page */
+/* Buttons Hover on About Page */
 .btn:hover {
     background-color: #6e6a6a;
     text-decoration: underline;
-}
-
-/* Dust on a Rose pic*/
-.dustrose {
-    margin-right: 20px;
-}
-
-/* Dust on a Rose pic*/
-.dustrose2 {
-    margin-left: 20px;
 }
 
 /* Dropdown menu */

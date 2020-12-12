@@ -111,6 +111,10 @@ p.lead {
   width: 58%;
 }
 
+.footer {
+	padding-top: 100px;
+}
+
 
 
 
@@ -163,6 +167,15 @@ p.lead {
 .fa-instagram {
   background: none;
   color: rgb(0, 139, 139);
+}
+
+.fa-envelope {
+	color: rgb(0, 139, 139)
+
+}
+
+.fa-phone {
+	color: rgb(0, 139, 139)
 }
 
 /* Carousel */

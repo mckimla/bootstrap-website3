@@ -130,6 +130,17 @@ p.lead {
 }
 
 
+/* Centered Images */
+.center {
+	 display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+
  
 
 /* Font Awesome Icons */

@@ -20,24 +20,8 @@ a:hover {
     color: rgb(0, 139, 139);
 }
 
-b {
-  text-decoration: none;
-}
-b:link {
-  color: #939;
-}
-b:visited {
-  color: #937393;
-}
-b:focus, b:hover {
-  color: white;
-  background-color: black;
-}
 
-b:active {
-  color: white;
-  background-color: black;
-}
+
 
 /*heading */
 h1 {

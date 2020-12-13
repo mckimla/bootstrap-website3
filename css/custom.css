@@ -110,25 +110,28 @@ p.lead {
 }
 
 
-
+/* Logo */
 .logo {
   width: 58%;
 }
 
+/* Footer */
 .footer {
 	padding-top: 100px;
 }
 
+/* Cards */
 .cards {
   padding-top: 35px;
 }
 
+/* PDF */
 .pdf {
   height: 700px;
   width: 550px;
 }
 
-
+/* tiktok case study */
 .tiktok {
   width: 555px;
 }
@@ -183,12 +186,12 @@ p.lead {
   background: none;
   color: rgb(0, 139, 139);
 }
-
+/* Mail Icon */
 .fa-envelope {
 	color: rgb(0, 139, 139)
 
 }
-
+/* Phone icon */
 .fa-phone {
 	color: rgb(0, 139, 139)
 }
@@ -206,7 +209,7 @@ p.lead {
     margin: auto;
 }
 
-/* Buttons on About Page */
+/* Buttons */
 .btn {
     background-color: rgb(0, 139, 139);
     border: none;
@@ -214,7 +217,7 @@ p.lead {
     margin-bottom: 5px;
 }
 
-/* Buttons Hover on About Page */
+/* Buttons Hover */
 .btn:hover {
     background-color: #6e6a6a;
     text-decoration: underline;

@@ -20,6 +20,25 @@ a:hover {
     color: rgb(0, 139, 139);
 }
 
+b {
+  text-decoration: none;
+}
+b:link {
+  color: #939;
+}
+b:visited {
+  color: #937393;
+}
+b:focus, b:hover {
+  color: white;
+  background-color: black;
+}
+
+b:active {
+  color: white;
+  background-color: black;
+}
+
 /*heading */
 h1 {
   font: bold 3.0em Quicksand, sans-serif;
@@ -45,9 +64,9 @@ h3 { font: bold 1.5em Quicksand, sans-serif;
 
 /*heading 4*/
 h4 {
-  font: bold 2.0em Quicksand, sans-serif;
+  font: bold 1.0em Quicksand, sans-serif;
   height: 45px;
-  color: #000000;
+  color: rgb(0, 139, 139);
   margin: auto;
 }
 
@@ -118,11 +137,13 @@ p.lead {
 
 .pdf {
   height: 700px;
-  width: 500px;
+  width: 550px;
 }
 
 
-
+.tiktok {
+  width: 555px;
+}
 
 /* Three image containers */
 .column {

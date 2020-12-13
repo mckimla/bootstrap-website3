@@ -22,7 +22,6 @@ a:hover {
 
 
 
-
 /*heading */
 h1 {
   font: bold 3.0em Quicksand, sans-serif;
@@ -110,6 +109,8 @@ p.lead {
     color: rgb(0, 139, 139);
    
 }
+
+
 
 .logo {
   width: 58%;

@@ -103,8 +103,9 @@ h1.display-4 {
 }
 
 p.lead {
-    color: black;
-    padding-left: 10px;
+    font: bold 1.8em Quicksand, sans-serif;
+    color: rgb(0, 139, 139);
+   
 }
 
 .logo {
@@ -114,6 +115,7 @@ p.lead {
 .footer {
 	padding-top: 100px;
 }
+
 
 
 

@@ -134,6 +134,7 @@ p.lead {
 /* tiktok case study */
 .tiktok {
   width: 555px;
+  padding-bottom: 60px;
 }
 
 /* Three image containers */
@@ -166,6 +167,13 @@ p.lead {
   padding-bottom: 7px;
 }
 
+.centered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
 
  
 
